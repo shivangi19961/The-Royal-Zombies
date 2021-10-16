@@ -1,5 +1,5 @@
 # The-Royal-Zombies
-# This is a read me file 
+ 
 1. What percent of disciplinary actions are sustained over a period of time?
 
 create temp table percent as (select final_finding, count(*) as cnt from data_officerallegation group by final_finding);
