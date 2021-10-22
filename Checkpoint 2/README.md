@@ -9,20 +9,14 @@ Our group analyzed the following 5 questions. We have listed the corresponding S
  
 1. What percent of disciplinary actions are sustained over a period of time?
    
-   Script1.sql
+  Story 1 
 
 2. What is the difference between sustained and unsustained complaints from civilian and police officers?
 
-   Script2.sql
+   Story 2
 
-3. What is the background (age, race, location, rank) of police officers for which complaints were sustained against? 
+3. What is the background (race) and (rank) of police officers for which complaints were sustained against? 
 
-   Script3.sql
+   Story 3 and Sheet 5 respectively
 
-4. Were the promotions, ranks or awards given to police officers affected by the sustainment (or not) of the complaints against them?
 
-   Script4.sql
-
-5. What were the changes in sustainment of complaints before and after COPA came into place? 
-
-   Script5.sql
