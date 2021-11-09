@@ -20,22 +20,15 @@ Our group analyzed the questions given below. We have listed the corresponding S
 
    Script3.sql
 
-4. What is the background of police officers, complainants and victims against which complaints are sustained - 
-a) Race of officer
-b) Rank of officer
-c) Salary of officer
-d) Employee status of officer
-e) Race of victim
-f) Race of complainant
+4. Are the officers with sustained complaints against them part of a crew? 
 
    Script4.sql
-
-5. Are the officers with sustained complaints against them part of a crew? 
+   
+5. What proportion of officers with 1 or more allegations and 0,1+,2+ sustained allegations against them get promoted each year? 
 
    Script5.sql
    
-6. a) What proportion of officers with 1 or more allegations and 0,1+,2+ sustained allegations against them get promoted each year? 
-   b) What proportion of officers with 1 or more allegations and 0,1+,2+ sustained allegations against them get awarded each year? 
+6. What proportion of officers with 1 or more allegations and 0,1+,2+ sustained allegations against them get awarded each year? 
 
    Script6.sql
 
