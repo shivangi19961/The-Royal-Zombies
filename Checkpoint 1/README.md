@@ -38,4 +38,5 @@ f) Race of complainant
 6. a) What proportion of officers with 1 or more allegations and 0,1+,2+ sustained allegations against them get promoted each year? 
    b) What proportion of officers with 1 or more allegations and 0,1+,2+ sustained allegations against them get awarded each year? 
 
+   Script6.sql
 
