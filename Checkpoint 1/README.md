@@ -15,9 +15,8 @@ Our group analyzed the questions given below. We have listed the corresponding S
 
    Script2.sql
 
-3. a) What categories of complaints are most/least likely to be sustained?
-b) What categories of complaints are most/least likely to have severe (more than reprimand) consequences? 
-c) What are the complaint categories with no severe consequences? 
+3. a) What categories of complaints are most/least likely to have severe (more than reprimand) consequences? 
+   b) What are the complaint categories with no severe consequences? 
 
    Script3.sql
 
